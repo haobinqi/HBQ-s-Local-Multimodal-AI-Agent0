@@ -128,7 +128,11 @@ vector_db/chroma/
 ``` 
 ## 6. github链接和运行截图
 ### 6.1 github链接
-*   
+*   https://github.com/haobinqi/HBQ-s-Local-Multimodal-AI-Agent0
 
 ### 6.2 运行截图
 *   result文件夹下
+
+### 6.3 运行视频
+*   
+
