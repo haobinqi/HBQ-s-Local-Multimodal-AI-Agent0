@@ -1,0 +1,9 @@
+torch
+sentence-transformers
+chromadb
+PyMuPDF
+Pillow
+tqdm
+clip-by-openai
+numpy
+streamlit
