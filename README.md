@@ -1,5 +1,8 @@
 # 本地 AI 智能文献与图像管理助手 (Local Multimodal AI Agent)
 
+姓名：郝斌淇
+学号：25120397
+
 ## 1. 项目简介 (Project Introduction)
 本项目实现了一个 本地运行的多模态 AI Agent，支持对论文（PDF）和图片数据进行统一的向量化表示、存储与语义检索。系统融合了 Sentence-BERT、CLIP 与 ChromaDB，并通过 Streamlit 提供可视化交互界面。
 
@@ -135,5 +138,6 @@ vector_db/chroma/
 
 ### 6.3 运行视频
 *   video.mp4
+
 
 
