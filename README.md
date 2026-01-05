@@ -134,5 +134,6 @@ vector_db/chroma/
 *   result文件夹下
 
 ### 6.3 运行视频
-*   
+*   video.mp4
+
 
